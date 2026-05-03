@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+pillow
+transformers
+sentence-transformers
+faiss-cpu
+torch
